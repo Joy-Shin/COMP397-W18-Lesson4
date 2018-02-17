@@ -1,5 +1,5 @@
 {
-  "name": "comp397-w2018-lesson4",
+  "name": "comp397-w2018-mailpilotdemo",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joy-Shin/COMP397-W18-Lesson4.git"
+    "url": "git+https://github.com/Joy-Shin/COMP397-W2018-MailPilotDemo.git"
   },
   "author": "Jowon Shin <jshin31@my.centennialcollege.ca>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Joy-Shin/COMP397-W18-Lesson4/issues"
+    "url": "https://github.com/Joy-Shin/COMP397-W2018-MailPilotDemo/issues"
   },
-  "homepage": "https://github.com/Joy-Shin/COMP397-W18-Lesson4#readme",
+  "homepage": "https://github.com/Joy-Shin/COMP397-W2018-MailPilotDemo#readme",
   "devDependencies": {
     "@types/easeljs": "^1.0.0"
   },
